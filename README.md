@@ -1,8 +1,10 @@
 # Next.js + Elysia + Drizzle Starter
 
+**Template for building fast.**
+
 A high-performance, type-safe full-stack starter template. This project leverages **Bun** for speed, **ElysiaJS** for a blazing fast backend API, **Next.js** for the frontend, and **Drizzle ORM** for type-safe database interactions.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Runtime & Package Manager:** [Bun](https://bun.sh/)
 * **Frontend:** Next.js 16 (App Router)
@@ -11,7 +13,7 @@ A high-performance, type-safe full-stack starter template. This project leverage
 * **Styling:** Tailwind CSS
 * **Language:** TypeScript
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone & Install
 ```bash
@@ -20,7 +22,7 @@ cd template
 bun install
 ````
 
-### 2\. Environment Setup
+### 2. Environment Setup
 
 Rename `.env.example` to `.env` and configure your database connection:
 
